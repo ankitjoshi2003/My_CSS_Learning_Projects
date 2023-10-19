@@ -44,7 +44,7 @@ body{
     overflow: hidden;
     transition: height 0.5s ease;
     bottom:0;
-    background: linear-gradient(rgba(0, 0, 0, 0.6),#fc1e1e);
+    background: linear-gradient(rgba(0, 0, 0, 0.4),#1e1ed4);
 }
 .overlay p{
     font-size: 15px;
@@ -59,7 +59,7 @@ body{
 .icon{
     margin:20px;
     border-radius:100px;
-    color:#fc1e1e;
+    color:#0404f7;
     background-color: white;
     padding:10px;
 }
